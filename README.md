@@ -6,10 +6,14 @@ The purpose of this analyis is to provide a summary of ride-sharing data by city
 
 ## Results
 
-![Complete_Python_Script](PyBer_Challenge.ipynb)
+
 
 Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type.
+
+The code used to perform the analysis can be found in detail, in the *Complete Python Script*.
+
+![Complete_Python_Script](PyBer_Challenge.ipynb)
 
 ## Summary
 
