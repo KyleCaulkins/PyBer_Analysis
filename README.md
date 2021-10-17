@@ -2,7 +2,7 @@
 
 ## Overview
 
-Explain the purpose of the new analysis.
+The purpose of this analyis is to provide a summary of ride-sharing data by city type, to decision-makers at Pyber. Pyber is a python based ride sharing app company, with CEO V. Isualize. A goal of PyBer is to improve access to ride sharing services, and determine affordability for underserved neighborhoods. Part of making decisions for the future is understanding where total rides, drivers, and fares currently are for each city type. The following analysis is provided, per request of V. Isualize, to aid in making the PyBer goal a reality.  
 
 ## Results
 
