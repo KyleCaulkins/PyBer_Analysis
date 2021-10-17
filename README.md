@@ -11,7 +11,6 @@ A table for the ride sharing data, by city type, is shown below. The number of r
 ![PyBer_Ride_Sharing](/analysis/ride_sharing_by_city_type.png)
 
 A graph of total weekly fares by city is shown below. The fare totals are plotted against time for January through April. The total weekly fares have some variability but nothing that is extreme, or overtly concerning. None of the city types appear to be heavily trending towards an increase or a decrease in total fares. The graph shows that on a weekly basis the total fares for urban cities is larger than suburban, which is larger than rural cities. These findings hold true for every week in the the time sample.  
-   
 
 ![PyBer_Fare_Summary](/analysis/PyBer_fare_summary.png)
 
@@ -21,6 +20,12 @@ The code used to perform the analysis can be found in detail, in the *Complete P
 ![Complete_Python_Script](PyBer_Challenge.ipynb)
 
 ## Summary
+
+Overall, the analysis provides clarity to the differences in PyBer business between city types. Using this clarity, there are three buiness recommendations for addressing disparities among the city types. The first recommendation is to perform a market analysis and determine if there is a need for more drivers in the three city types. 
+
+Is there market demand in city types
+Can same drivers be used in interface bewtween city types?
+Compare data with different pricing model
 
 Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
 There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. 
