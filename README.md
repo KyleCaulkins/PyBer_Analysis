@@ -6,10 +6,15 @@ The purpose of this analyis is to provide a summary of ride-sharing data by city
 
 ## Results
 
+A table for the ride sharing data, by city type, is shown below. The number of rides, drivers, and total fares appears to trend with population density. Rural cities have the least rides, drivers, and total fares while urban cities have the most. Average fare per per ride and average fare per driver trend inversly with population density; rural fares are high than urban fares on average. Suburban city results fall between rural and urban cities in all categories. These results seem intuitive considering rural cities likely have a lower demand, with lower population, and likely have a longer average ride, when compared to an urban city. 
 
+![PyBer_Ride_Sharing](/analysis/ride_sharing_by_city_type.png)
 
-Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
-There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type.
+A graph of total weekly fares by city is shown below. The fare totals are plotted against time for January through April. The total weekly fares have some variability but nothing that is extreme, or overtly concerning. None of the city types appear to be heavily trending towards an increase or a decrease in total fares. The graph shows that on a weekly basis the total fares for urban cities is larger than suburban, which is larger than rural cities. These findings hold true for every week in the the time sample.  
+   
+
+![PyBer_Fare_Summary](/analysis/PyBer_fare_summary.png)
+
 
 The code used to perform the analysis can be found in detail, in the *Complete Python Script*.
 
