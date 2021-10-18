@@ -2,7 +2,7 @@
 
 ## Overview
 
-The purpose of this analyis is to provide a summary of ride-sharing data by city type, to decision-makers at Pyber. Pyber is a python based ride sharing app company, with CEO V. Isualize. A goal of PyBer is to improve access to ride sharing services, and determine affordability for underserved neighborhoods. Part of making decisions for the future is understanding where total rides, drivers, and fares currently are for each city type. The following analysis is provided, per request of V. Isualize, to aid in making the PyBer goal a reality.  
+The purpose of this analysis is to provide a summary of ride-sharing data by city type, to decision-makers at Pyber. Pyber is a python-based ride sharing app company, with CEO V. Isualize. A goal of PyBer is to improve access to ride sharing services and determine affordability for underserved neighborhoods. Part of making decisions for the future is understanding where total rides, drivers, and fares currently are for each city type. The following analysis is provided, per request of V. Isualize, to aid in making the PyBer goal a reality.  
 
 ## Results
 
@@ -21,11 +21,6 @@ The code used to perform the analysis can be found in detail, in the *Complete P
 
 ## Summary
 
-Overall, the analysis provides clarity to the differences in PyBer business between city types. Using this clarity, there are three buiness recommendations for addressing disparities among the city types. The first recommendation is to perform a market analysis and determine if there is a need for more drivers in the three city types. 
+Overall, the analysis provides clarity to the differences in PyBer business between city types. Using this clarity, here are three business recommendations for addressing disparities among the city types. The first recommendation is to perform a market analysis and determine if there is a need for more drivers in the three city types. If the market analysis shows room to expand in rural and suburban cities, this should be pursued. There is significantly higher average fare per driver and average fare per ride in these city types. It is likely these city types are under served. 
 
-Is there market demand in city types
-Can same drivers be used in interface bewtween city types?
-Compare data with different pricing model
-
-Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
-There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. 
+Another recommendation is to encourage or incentivize drivers, operating in urban cities, to consider offering rides in suburban or even rural cities. Some of these drivers may be local to urban-suburban or suburban-rural transitions and they could operate in a lower population density city to help improve access. This shift could help lessen the divide of total drivers and average fare per driver based on city type. The final recommendation is to evaluate the current pricing model. The data did not include the distance of each ride but cost per mile should be considered. To make sure affordability is not a limiting factor, the average fare by city type should be investigated further.
